@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farshad-akbari-arzati)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mzfarshad)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Farshad1769)
 
 ---
 
@@ -28,6 +29,7 @@ I am a back-end developer specializing in Go, passionate about learning new tech
 |---------|-------------|------|
 | [Telegram Translation Bot](https://github.com/mzfarshad/telegram_bot_translate) | A real-time translation bot for Telegram, translating as users type | [View on GitHub](https://github.com/mzfarshad/telegram-translation-bot) |
 | [AAA Framework Implementation](https://github.com/mzfarshad/aaa) | Implementation of the AAA framework (Authentication, Authorization, Accounting) using JWT for password hashing and token management | [View on GitHub](https://github.com/mzfarshad/aaa) |
+
 
 ---
 
