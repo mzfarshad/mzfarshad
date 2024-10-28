@@ -26,7 +26,7 @@ I am a back-end developer specializing in Go, passionate about learning new tech
 ## My Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| [Telegram Translation Bot](https://github.com/mzfarshad/telegram-translation-bot) | A real-time translation bot for Telegram, translating as users type | [View on GitHub](https://github.com/mzfarshad/telegram-translation-bot) |
+| [Telegram Translation Bot](https://github.com/mzfarshad/telegram_bot_translate) | A real-time translation bot for Telegram, translating as users type | [View on GitHub](https://github.com/mzfarshad/telegram-translation-bot) |
 | [AAA Framework Implementation](https://github.com/mzfarshad/aaa) | Implementation of the AAA framework (Authentication, Authorization, Accounting) using JWT for password hashing and token management | [View on GitHub](https://github.com/mzfarshad/aaa) |
 
 ---
