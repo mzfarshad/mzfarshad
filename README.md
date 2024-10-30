@@ -20,7 +20,7 @@ I am a back-end developer specializing in Go, passionate about learning new tech
 ## Skills
 - **Languages:** Go, Python
 - **Databases:** SQLite, MySQL, Postgres
-- **Tools & Frameworks:** Docker, Git, RESTful API, Gin, Gorm
+- **Tools & Frameworks:** Docker, Git, RESTful API, Gin, Gorm, Postman
 
 ---
 
