@@ -24,6 +24,14 @@ I am a back-end developer specializing in Go, passionate about learning new tech
 
 ---
 
+## 🧰 Tech Stack
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+
+---
+
 ## My Projects
 
 | Project | Description | Link |
