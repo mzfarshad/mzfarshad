@@ -11,20 +11,20 @@
 ## About Me
 I am a back-end developer specializing in Go, passionate about learning new technologies and working on challenging projects. Currently, I am looking for backend development opportunities and excited about collaborating with teams that value innovation and growth.
 
-- 🔭 Currently working on personal projects to expand my skills
+- 🔭 Open to full-time remote backend positions or freelance Go development opportunities.
 - 🌱 Deepening my knowledge of Go and design patterns
 - 👯 Interested in open-source contributions and collaborative projects
 
 ---
 
 ## Skills
-- **Languages:** Go, Python
-- **Databases:** SQLite, MySQL, Postgres
-- **Tools & Frameworks:** Docker, Git, RESTful API, Gin, Gorm, Postman
-
+- **Languages:** Go
+- **Databases:** SQLit | MySQL | Postgres
+- **Tools & Frameworks:** Docker | Git | Gin | Fiber | Postman | Gorm | JWT
+- **Backend development:** Clean architecture | RestFull API | TDD | Design Patterns | 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
