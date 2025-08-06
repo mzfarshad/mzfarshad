@@ -25,11 +25,12 @@ I am a back-end developer specializing in Go, passionate about learning new tech
 ---
 
 ## My Projects
+
 | Project | Description | Link |
 |---------|-------------|------|
 | [Telegram Translation Bot](https://github.com/mzfarshad/telegram_bot_translate) | A real-time translation bot for Telegram, translating as users type | [View on GitHub](https://github.com/mzfarshad/telegram-translation-bot) |
 | [IoT Data Processing with MQTT](https://github.com/mzfarshad/mQTT) | An IoT project for real-time data processing and device communication using MQTT protocol | [View on GitHub](https://github.com/mzfarshad/mQTT) |
-
+| [Clean Architecture API](https://github.com/mzfarshad/clean-architecture-api) | A RESTful API service implemented using Clean Architecture principles for maintainable and scalable backend development. | [View on GitHub](https://github.com/mzfarshad/clean-architecture-api) |
 
 ---
 
